@@ -1,5 +1,5 @@
 ---
-title: Posts
+# title: "All blogposts"
 cms_exclude: true
 
 # View.
