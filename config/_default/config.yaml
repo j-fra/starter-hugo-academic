@@ -1,3 +1,9 @@
+# This is necessary to render html in markdown files; https://gohugo.io/news/0.60.0-relnotes/
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 # Configuration of Hugo
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
